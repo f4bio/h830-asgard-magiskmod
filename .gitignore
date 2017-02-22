@@ -1,0 +1,8 @@
+#
+/dist/
+/build/system/
+/build/*_H830_*
+/build/boot.img
+/build/META-INF/
+/build/rootzip/
+/build/system/
