@@ -19,6 +19,6 @@ cp updater-script META-INF/com/google/android/updater-script
 
 zip -r "$KERNEL_OUTPUT.zip" boot.img META-INF/ rootzip/ system/
 
-rhash -o "$KERNEL_OUTPUT.zip.md5" "$KERNEL_OUTPUT.zip"
+rhash --md5 --output "$KERNEL_OUTPUT.zip.md5" "$KERNEL_OUTPUT.zip"
 
 rm -rf boot.img META-INF rootzip system
