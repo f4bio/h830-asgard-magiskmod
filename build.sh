@@ -10,6 +10,7 @@ cd build/
 rhash -c "$KERNEL_INPUT.zip.md5"
 
 unzip "$KERNEL_INPUT.zip"
+curl -L build/Magisk-v11.1.zip http://tiny.cc/latestmagisk
 
 rm rootzip/SuperSU-*.zip
 cp Magisk-v11.1.zip rootzip/Magisk-v11.1.zip
