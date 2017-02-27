@@ -4,16 +4,16 @@
 
 #### how to
 1) Flash this instead of `lordodin912`'s SuperSU'd version
-  * [Asgard_vX_H830_20C-magiskmod.zip @ afh](https://www.androidfilehost.com/?fid=673368273298933307)
+  * [Asgard_vX_H830_20C-magiskmod.zip @ afh](https://www.androidfilehost.com/?w=files&flid=157334)
 
 ##### if already (supersu) rooted
 1) Flash `osm0sis`'s [unSu.zip](https://forum.xda-developers.com/showpost.php?p=63615067) [mirror @ afh](https://www.androidfilehost.com/?fid=817550096634748268)
 
 2) Flash stock or kernel boot.img
-  * [boot_Asgard_vX_H830_20C.img @ afh](https://www.androidfilehost.com/?fid=745425885120710056)
+  * [boot_Asgard_vX_H830_20C.img @ afh](https://www.androidfilehost.com/?w=files&flid=157334)
 
 3) Flash this kernel
-  * [Asgard_vX_H830_20C-magiskmod.zip @ afh](https://www.androidfilehost.com/?fid=673368273298933307)
+  * [Asgard_vX_H830_20C-magiskmod.zip @ afh](https://www.androidfilehost.com/?w=files&flid=157334)
 
 #### Tested on
   * ---
